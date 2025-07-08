@@ -1,7 +1,7 @@
 // swift-tools-version: 5.10
 import PackageDescription
 
-let version = "4.12.0"
+let version = "4.12.1"
 let checksum = "21f8235b244566ae6edbf1ab36d8dfd45cd21a0452372f4b227cf8a7dc21f324"
 
 let package = Package(
