@@ -28,6 +28,7 @@ let package = Package(
                 .linkedFramework("CoreImage"),
                 .linkedFramework("CoreMedia"),
                 .linkedFramework("Accelerate"),
+                .linkedFramework("OpenCL"),
                 .linkedLibrary("c++")
             ]
         )
